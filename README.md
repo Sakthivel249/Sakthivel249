@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I'm a **Full Stack Developer** and **AI Enthusiast** passionate about crafting innovative solutions that bridge technology and real-world impact. With expertise spanning backend systems, machine learning, and game development, I love tackling complex problems with elegant code.
+I'm a **Full Stack Developer** and **AI Enthusiast** passionate about crafting innovative solutions that bridge technology and real-world impact. With expertise spanning backend systems, machine learning, and mobile development, I specialize in building scalable, production-ready applications.
 
 ### 💡 **What Drives Me:**
 - 🤖 **AI-Powered Solutions** - Building intelligent systems that enhance human capabilities
@@ -32,7 +32,7 @@ I'm a **Full Stack Developer** and **AI Enthusiast** passionate about crafting i
     <h3>🎤 InterVueX</h3>
     <p>AI-Powered Interview Platform</p>
     <p>
-      Revolutionizing the interview experience with advanced AI technology and human expertise for fair, efficient assessments.
+      Revolutionizing the interview experience with advanced AI technology and human expertise for fair, efficient assessments. <strong>Hackathon 1st Prize Winner</strong> at InnovateX @ SSN College.
     </p>
     <p>
       <strong>Tech:</strong> Python • Flask • AI/ML • Real-time Analytics
@@ -58,7 +58,7 @@ I'm a **Full Stack Developer** and **AI Enthusiast** passionate about crafting i
     <h3>📚 ML Lab Sem6</h3>
     <p>Machine Learning Experiments</p>
     <p>
-      Comprehensive collection of ML experiments and algorithms, demonstrating practical applications of data science.
+      Comprehensive collection of ML experiments and algorithms, demonstrating practical applications of data science and advanced techniques.
     </p>
     <p>
       <strong>Tech:</strong> Python • Jupyter • Scikit-learn • TensorFlow
@@ -67,16 +67,42 @@ I'm a **Full Stack Developer** and **AI Enthusiast** passionate about crafting i
     <a href="https://github.com/Sakthivel249/ML_Lab_Sem6">View Project →</a>
   </td>
   <td align="center" width="50%">
-    <h3>⚙️ Backend Systems</h3>
-    <p>Robust Server Architecture</p>
+    <h3>💼 IntellihireX Backend</h3>
+    <p>Intelligent Recruitment Platform</p>
     <p>
-      Enterprise-grade backend implementations with RESTful APIs, database design, and microservices patterns.
+      Backend service for an intelligent hiring and recruitment platform with advanced matching algorithms and analytics.
+    </p>
+    <p>
+      <strong>Tech:</strong> Java • Spring Boot • REST APIs
+    </p>
+    <br/>
+    <a href="https://github.com/Sakthivel249/IntellihireX_backend_">View Project →</a>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="50%">
+    <h3>🚗 MotorQ Backend</h3>
+    <p>Fleet Management System</p>
+    <p>
+      Enterprise-grade backend service for fleet management and vehicle tracking with real-time monitoring capabilities.
     </p>
     <p>
       <strong>Tech:</strong> Java • Spring Boot • Microservices • PostgreSQL
     </p>
     <br/>
-    <a href="https://github.com/Sakthivel249?tab=repositories">View All →</a>
+    <a href="https://github.com/Sakthivel249/motorq_backend">View Project →</a>
+  </td>
+  <td align="center" width="50%">
+    <h3>📖 Course Registration System</h3>
+    <p>Academic Management Platform</p>
+    <p>
+      Full-stack system for managing course registrations and student enrollment with intuitive user interface.
+    </p>
+    <p>
+      <strong>Tech:</strong> Full Stack Web Development
+    </p>
+    <br/>
+    <a href="https://github.com/Sakthivel249/Course-Registration-System">View Project →</a>
   </td>
 </tr>
 </table>
@@ -115,6 +141,16 @@ I'm a **Full Stack Developer** and **AI Enthusiast** passionate about crafting i
 
 ---
 
+## 🎓 Continuous Learning
+
+- 🔬 Exploring advanced **Machine Learning** architectures
+- ☁️ Deepening **Cloud Architecture** knowledge
+- 🏛️ Mastering **System Design** patterns
+- 🎨 Enhancing **UX/UI** principles in web applications
+- 🤖 Staying current with **AI/LLM** advancements
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -124,16 +160,6 @@ I'm a **Full Stack Developer** and **AI Enthusiast** passionate about crafting i
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakthivel249&theme=tokyonight&hide_border=true&layout=compact)
 
 </div>
-
----
-
-## 🎓 Continuous Learning
-
-- 🔬 Exploring advanced **Machine Learning** architectures
-- ☁️ Deepening **Cloud Architecture** knowledge
-- 🏛️ Mastering **System Design** patterns
-- 🎨 Enhancing **UX/UI** principles in web applications
-- 🤖 Staying current with **AI/LLM** advancements
 
 ---
 
